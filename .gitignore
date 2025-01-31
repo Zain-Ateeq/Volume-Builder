@@ -1,0 +1,16 @@
+# Ignore dataset folders and large files
+data/
+*.sgy
+*.h5
+*.csv
+*.npz
+*.npy
+*.mat
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+ 
